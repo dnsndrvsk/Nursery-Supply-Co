@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 480px;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "HelveticaNeueCyr", "Arial", sans-serif;
+}
+
+h1 {
+  font-size: 68px;
+  line-height: 60px;
+}
+
+h2, h3 {
+  font-size: 34px;
+  line-height: 40px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+p {
+  font-size: 14px;
+  line-height: 25px;
+}
+
+a {
+  font-family: "NimbusSanTConBold", "Arial", sans-serif;
+  font-size: 19px;
+  line-height: 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+}

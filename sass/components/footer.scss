@@ -1,0 +1,23 @@
+.footer {
+  background-color: #e4e4e4;
+  
+  &__text {
+    margin: 0;
+    font-size: 12px;
+    line-height: 64px;
+    color: #919191;
+    
+    @media screen and ( max-width: 500px ) {
+      width: 100%;
+      text-align: center;
+    }
+  }
+  
+  &__text:first-child {
+    float: left;
+  }
+  
+  &__text:last-child {
+    float: right;
+  }
+}
