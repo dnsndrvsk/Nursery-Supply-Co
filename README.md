@@ -1,1 +1,1 @@
-# Nursery-Supply-Co - Simple LP
+# Nursery-Supply-Co - LP
